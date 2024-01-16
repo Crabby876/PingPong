@@ -23,21 +23,21 @@ mir sind schon ein paar gute Ideen in den Sinn gekommen.(79 Wörter)
 
 ## 16.1 2024
 
-- [ ]Spieler erstellen
-- [ ]Ball erstellen
-- [ ]Spieler zum Bewegen bringen (nur Y achse)
-- [ ]Ball bewegung 
+- [x]Spieler erstellen
+- [x]Ball erstellen
+- [x]Spieler zum Bewegen bringen (nur Y achse)
+- [x]Ball bewegung 
 
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |    Spiel läuft       |    nichts      | Spielfigur erstellen |          |
-| 2              |    Spiel läuft       |    nichts      | Ball erstellen |          |
-| 3 | Spiel läuft | Pfeil anch oben/unten / w/s geklickt | Spieler bewegt sich  |    |
-| 4              |    Ball berührt Spieler/ Wnad       |  nichts        | Ball prallt ab               |          |
+| 1              |    Spiel läuft       |    nichts      | Spielfigur erstellen |    ja      |
+| 2              |    Spiel läuft       |    nichts      | Ball erstellen |     ja     |
+| 3 | Spiel läuft | Pfeil anch oben/unten / w/s geklickt | Spieler bewegt sich  |  ja  |
+| 4              |    Ball berührt Spieler/ Wnad       |  nichts        | Ball prallt ab               |     ja     |
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
-☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+Heute am 16.1 habe ich sehr viel programmiert. Ich habe angefangen die Spielobjeckte einzufügen und begann sie zu kodieren jedoc hat das nocht so gut geklappt. Danach habe ich mich im Internet informiert und habe über den Timer erfahren der das erstellen von Spielen einfacher macht und habe so mit die Spieler zum Bewegen gebracht. Das war der leichte teil den das abprallen vom Ball hat mich die meiste Zeit gekosstet jedoch klappt es jetzt. (76)
+
 
 ## 23.1.2024
 
