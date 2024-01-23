@@ -48,12 +48,12 @@ Heute am 16.1 habe ich sehr viel programmiert. Ich habe angefangen die Spielobje
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 5               |   Programm wird gestarted |     nichts        |    Haupt Menü            |          |
-| 6               |   Spiel gestarted         |     nichts        |    Punkte GUI auf screen            |          |
-| 7 | Treffer erziehlt | nicht | GUI Zahl wird updated |  |
-| 8               | Programm gestarted | nicht  |  auswahl mit verschiedenen Modus              |          |
+| 5               |   Programm wird gestarted |     nichts        |    Haupt Menü            |     -     |
+| 6               |   Spiel gestarted         |     nichts        |    Punkte GUI auf screen            |    ja      |
+| 7 | Treffer erziehlt | nicht | GUI Zahl wird updated | ja |
+| 8               | Programm gestarted | nicht  |  auswahl mit verschiedenen Modus              |      -    |
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute am 23.1 habe ich meinen App mit einwenig GUI verbessert. Als erstes habe ich einen Punkte zähler gemacht und habe es auch codiert. Danach wollte ich einen Menu machen hab den design vertig gestellt und habe die einzelnen Buttons programmiert. Jedoch hat es nicht geklappt weil sobald ich den Spiel gestartet habe konnte ich die Spieler nicht ehr bewegen. Den Rest der Zeit habe ich genutzt um den Fehler zu behebn und den GUI zu funktionieren zzu bringen, aber mein Versuch hat gescheitert und ich habe mich entschlossen den Menu aus zu lassen und habe jetzt einfach einen Puntezähler für meinen Spiel. Deshalb bin ich nicht sehr zufrieden mit das was ich heute erreicht habe. (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
