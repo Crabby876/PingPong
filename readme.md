@@ -42,8 +42,8 @@ Heute am 16.1 habe ich sehr viel programmiert. Ich habe angefangen die Spielobje
 ## 23.1.2024
 
 - [ ] Start Menü erstellen
-- [ ] Punkte system GUI erstellen
-- [ ] Punkte system programmieren
+- [x] Punkte system GUI erstellen
+- [x] Punkte system programmieren
 - [ ] Verschiedene Modus einfügen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
