@@ -59,10 +59,14 @@ Heute am 16.1 habe ich sehr viel programmiert. Ich habe angefangen die Spielobje
 
 ## 30.1.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute am 23.1 habe ich meinen code einwenig überarbeited da es nich wirklich schön formuliert war und dami es einfacher zu lesen und verstehen ist. Danach habe ich meinen GitHub Akkount einwenig überarbeited damit es einen gunten eindruck hinterlässt wenn man es ansieht. Ich habe einen passenden Bio geschrieben und habe meinen Profilbild gewechselt so das es proffesioneller aussiecht (60 Wörter)
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+In dieser kurzen aber effektieven LP3 habe ich meinen Projeckt Ping Pong Spiel fertig gestellt. Am anfang habe ich neue sachen gelernt über WinForms, nähmlich den Timer den man benutzen kann wie FPS um die Spielobjeckte gut zu bewegen. Danach ging es auch schon zum Coden, was mir dieses mal viel Spass gemacht hat. Ich habe zuerst die einzelnen Spieler zum bewegen gebracht mit dentasten, Pfeil nach oben Pfeil nach unten und W S. Doch das war das Leichte. Nähmlich nun musste ich den Ball zum bewegen bringen welches ziemlich schwär wahr. Ich habe zu erst gemacht das der Ball einen random Start hat also es bewegt sich zufällig nach oben links, unten rechts usw. Danach musste ich den abbouncen machen was mir an diesem Projeckt am schwärsten viel. Für diesen Logic habe ich fast die helftes des ertsen Tages verbraucht. Nach dem entlich mein Spiel funktionierte habe ich GUI hinzu gefühgt, doch leider hat das meinen Spiel gebuggt und ich habe nicht heraus gefunden woran das lag. Damit zumindest mein Spiel funktioniert habe ich den GUIdanach entfernt und habe einfach eien Punkt zähler reingemacht. Zu meiner verbesserungs Vorschlag finde ich dass ich mich nun ziemlich gut verbessert habe und ich denke ich werde auch weiterhinn Konzertriert arbeiten(198 Wörter).
+
+Verbesserungsforschlag:
+Heute beim überarbeiten meines Codes habe ich bemärkt dass ich ziemlich komisch und unverständliche Codes mache, deshalb habe ich mir für die nächste LP vorgenommen mehr Acht darauf zu geben und hoffentlich meine Codes zu verbessern.
 
 Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Meiner Meinung nach war der 4- Wöchentliche LP einbisschen besser den es hat mir das gefühl gegeben einen Projeckt zu machen oder einen Auftrag beim anderen LP habe ich zwar viel mehr gelernt jedoch war es einbisschen zu  lang und ich habe sehr viele Projeckt gemacht, wobei das ein Projeckt konzept mir besser gefällt.
