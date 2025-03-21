@@ -1,0 +1,16 @@
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\bin\Debug\net6.0-windows\PingPongSpiel.exe
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\bin\Debug\net6.0-windows\PingPongSpiel.deps.json
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\bin\Debug\net6.0-windows\PingPongSpiel.runtimeconfig.json
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\bin\Debug\net6.0-windows\PingPongSpiel.dll
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\bin\Debug\net6.0-windows\PingPongSpiel.pdb
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\obj\Debug\net6.0-windows\PingPongSpiel.Form1.resources
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\obj\Debug\net6.0-windows\PingPongSpiel.csproj.GenerateResource.cache
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\obj\Debug\net6.0-windows\PingPongSpiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\obj\Debug\net6.0-windows\PingPongSpiel.AssemblyInfoInputs.cache
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\obj\Debug\net6.0-windows\PingPongSpiel.AssemblyInfo.cs
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\obj\Debug\net6.0-windows\PingPongSpiel.csproj.CoreCompileInputs.cache
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\obj\Debug\net6.0-windows\PingPongSpiel.dll
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\obj\Debug\net6.0-windows\refint\PingPongSpiel.dll
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\obj\Debug\net6.0-windows\PingPongSpiel.pdb
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\obj\Debug\net6.0-windows\PingPongSpiel.genruntimeconfig.cache
+C:\Users\dorig\source\repos\PingPongSpiel\PingPongSpiel\obj\Debug\net6.0-windows\ref\PingPongSpiel.dll
