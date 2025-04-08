@@ -7,9 +7,12 @@ PingPog ist ein Zwei-Spieler-Spiel, bei dem man gegen einen Freund eine Runde vi
 Ein Punkt wird erzielt, wenn der Ball die Wand hinter dem gegnerischen Spieler berührt. Um das Spiel spannender zu gestalten, erhöht sich die Geschwindigkeit des Balls nach einigen Sekunden, wodurch die Herausforderung steigt.
 
 Controls:
+
 Player 1(links):
+
   up = w
   down = s
+  
 Player 2(rechts):
   up = Pfeiltaste oben
   down = Pfeiltaste unten
